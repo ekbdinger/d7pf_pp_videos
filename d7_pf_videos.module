@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the D7 pf_videos feature.
+ */
+
+include_once 'd7_pf_videos.features.inc';
